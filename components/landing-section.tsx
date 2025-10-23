@@ -43,7 +43,7 @@ export function LandingSection() {
           {/* Primary CTA */}
           <div className="space-y-2">
             <a
-              href="https://tinyurl.com/spicytlgrm"
+              href="https://tinyurl.com/spicymemesfr"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -97,7 +97,7 @@ export function LandingSection() {
       >
         <div className="mx-auto max-w-[420px]">
           <a
-            href="https://tinyurl.com/spicytlgrm"
+            href="https://tinyurl.com/spicymemesfr"
             target="_blank"
             rel="noopener noreferrer"
             className="block"
